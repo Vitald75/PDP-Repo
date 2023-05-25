@@ -6,3 +6,7 @@ modify textB
 B-line3
 B-line4
 B-line5
+
+modify textB on local Branch1
+ho-ho-ho
+
