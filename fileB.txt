@@ -2,3 +2,7 @@ textB
 B-line1
 B-line2
 
+modify textB
+B-line3
+B-line4
+B-line5
