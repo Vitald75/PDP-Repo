@@ -2,4 +2,7 @@ fileA
 text1
 text2
 text3
+modify 
+text4
+text5
 
